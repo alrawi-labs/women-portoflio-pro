@@ -5,7 +5,6 @@ import Services from "@/components/Services/ServicesSection";
 import FeaturedProjects from "@/components/Projects/FeaturedProjects";
 import Resume from "@/components/Resume/ResumeSection";
 import Skills from "@/components/Skills/SkillsSection";
-import Testimonials from "@/components/Testimonials/TestimonialsSection";
 import Contact from "@/components/Contact/ContactSection";
 import Stats from "@/components/Stats/StatsSection";
 import Footer from "@/components/Shared/Footer";
